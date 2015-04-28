@@ -1,0 +1,13 @@
+{
+	"name":"Rahil",
+	"age":"23",
+	"nick":"Instinct",
+	"site":"ciphertrick",
+	"friends":[{
+		"name":"sid",
+		"nick":"skill"
+	},{
+		"name":"Inaam",
+		"nick":"Tobo"
+	}]
+}
